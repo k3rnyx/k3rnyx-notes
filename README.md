@@ -2,40 +2,84 @@
 
 # 📚 K3rNyx Notes
 
+<img src="assets/logo.png" width="120" alt="K3rNyx Logo">
+
 ### Research. Build. Secure.
 
-Repositorio personal donde documento mi aprendizaje, investigaciones y notas técnicas sobre ingeniería de software, Linux, seguridad informática y DevSecOps.
+Documentación técnica, notas de estudio y recursos sobre Ingeniería de Software, Linux, Seguridad Informática y DevSecOps.
+
+![Status](https://img.shields.io/badge/Status-En%20desarrollo-00E5A8?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-58A6FF?style=flat-square)
 
 </div>
 
 ---
 
-# Objetivo
+# 🎯 Objetivo
 
-Este repositorio nace con la idea de documentar todo mi proceso de aprendizaje.
+Este repositorio reúne mi proceso de aprendizaje y documentación técnica.
 
-Cada nota representa una investigación, laboratorio o concepto que considero útil para comprender mejor los sistemas y construir software más seguro.
-
----
-
-# Temas
-
-- Linux
-- Redes
-- Seguridad Web
-- Python
-- Go
-- Docker
-- Kubernetes
-- Git
-- GitHub
-- DevSecOps
-- Cloud
-- Automatización
+Cada nota representa una investigación, laboratorio o concepto estudiado con el objetivo de comprender mejor los sistemas y desarrollar soluciones más seguras.
 
 ---
 
-# Filosofía
+# 📂 Contenido
+
+## 🐧 Linux
+
+- [Instalación de Kali Linux](linux/01-instalacion-kali/README.md)
+
+---
+
+## 🌐 Redes
+
+Próximamente...
+
+---
+
+## 🔐 Seguridad Informática
+
+Próximamente...
+
+---
+
+## 🐍 Python
+
+Próximamente...
+
+---
+
+## 🐹 Go
+
+Próximamente...
+
+---
+
+## 🐳 Docker
+
+Próximamente...
+
+---
+
+## ☸ Kubernetes
+
+Próximamente...
+
+---
+
+## ⚙️ DevSecOps
+
+Próximamente...
+
+---
+
+## ☁️ Cloud
+
+Próximamente...
+
+---
+
+# 📖 Filosofía
 
 > Comprender los sistemas.
 >
@@ -47,6 +91,12 @@ Cada nota representa una investigación, laboratorio o concepto que considero ú
 
 <div align="center">
 
-**Research. Build. Secure.**
+### Think in Systems.
+
+### Challenge Assumptions.
+
+### Build Responsibly.
+
+**— K3rNyx**
 
 </div>
